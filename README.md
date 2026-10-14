@@ -1,7 +1,12 @@
-# Booking System – individual coding exam
+# Booking System
 
-This is a starter project for the individual practical coding exam. The
-application targets .NET 10 and contains a console application and xUnit tests.
+A meeting room booking application built with C# and .NET 10.
+
+## Features
+
+- View and search bookings.
+- Create and cancel bookings.
+- Validate bookings and save data to JSON.
 
 ## Requirements
 
@@ -18,6 +23,3 @@ dotnet run --project src/BookingSystem
 ```bash
 dotnet test
 ```
-
-Read the separate assignment instructions before starting. The existing code
-is incomplete and contains intentional defects.
